@@ -1,0 +1,50 @@
+[
+    {
+        "id": "el1",
+        "name": "XIAOMI MI MAX 3 64 GB BLACK",
+        "img": "https://i.ibb.co/GpdXxX2/mblack64.jpg",
+        "price": 5999
+    },
+    {
+        "id": "el2",
+        "name": "XIAOMI MI MAX 3 64 GB BLUE",
+        "img": "https://i.ibb.co/4JfRtQZ/mblue64.jpg",
+        "price": 5999
+    },
+    {
+        "id": "el3",
+        "name": "XIAOMI MI MAX 3 64 GB GOLD",
+        "img": "https://i.ibb.co/7Yk9pYb/mgold64.jpg",
+        "price": 5999
+    },
+    {
+        "id": "el4",
+        "name": "XIAOMI MI 9 64 GB BLACK",
+        "img": "https://i.ibb.co/YTV8vSC/9black.png",
+        "price": 7379
+    },
+    {
+        "id": "el5",
+        "name": "XIAOMI MI 9 64 GB BLUE",
+        "img": "https://i.ibb.co/1LmBdDX/9blue.png",
+        "price": 7379
+    },
+    {
+        "id": "el6",
+        "name": "XIAOMI MI 9T 128 GB BLACK",
+        "img": "https://i.ibb.co/N7XMfDB/9T.jpg",
+        "price": 6599
+    },
+    {
+        "id": "el7",
+        "name": "XIAOMI MI 9T 64 GB BLACK",
+        "img": "https://i.ibb.co/g6h8Jkv/9t64black.jpg",
+        "price": 5699
+    },
+    {
+        "id": "el8",
+        "name": "XIAOMI MI 9T 64 GB BLUE",
+        "img": "https://i.ibb.co/Zm0xj18/9t64blue.jpg",
+        "price": 5699
+    }
+]
